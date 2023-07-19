@@ -1,0 +1,22 @@
+{
+  "name": "show-my-name-tz",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thinzar-Shun-Lei/show-my-name-tz.git"
+  },
+  "keywords": [
+    "show-my-name-tz"
+  ],
+  "author": "Thinzar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thinzar-Shun-Lei/show-my-name-tz/issues"
+  },
+  "homepage": "https://github.com/Thinzar-Shun-Lei/show-my-name-tz#readme"
+}
